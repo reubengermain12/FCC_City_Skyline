@@ -1,6 +1,3 @@
-/*I added box-sizing of border-box to everything.
-This will make it so the border i've added doesn't add any size to my elements.*/
-
 * {
   border: 1px solid black;
   box-sizing: border-box;
