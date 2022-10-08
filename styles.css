@@ -1,9 +1,3 @@
-/*In CSS, you can target everything with an asterisk.
-
-I added a border to everything by using the * selector, and giving it a border of 1px solid black.
-
-This is a trick that helps visualize where elements are and their size. I will remove this later.*/
-
 * {
   border: 1px solid black;
 }
