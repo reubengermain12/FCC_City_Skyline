@@ -2,10 +2,6 @@
   border: 1px solid black;
   box-sizing: border-box;
 }
-
-/*You can see the body (it's the inner-most box on your page); the box around it is the html element. 
-I'll make the body fill the whole viewport by giving it a height of 100vh. The i'll remove the default margin from the body by setting the margin to 0. Finally, I will set the overflow property to hidden to hide any scroll bars that appear when something extends past the viewport.*/
-
 body {
   height: 100vh;
   margin: 0;
