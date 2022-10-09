@@ -14,9 +14,6 @@ body {
   align-items: flex-end;
   justify-content: space-evenly;
 }
-
-/*I created a new variable below the other one called --building-color2 and give it a value of #66cc99. I then set it as the background-color of .bb2.*/
-
 .bb1 {
   width: 10%;
   height: 70%;
