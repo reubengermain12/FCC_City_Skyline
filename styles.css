@@ -11,9 +11,15 @@ body {
   width: 100%;
   height: 100%;
 }
+
+/*I've given my .bb1 element these style properties: display: flex;, flex-direction: column;, and align-items: center;. This will center the parts of the building using "flex" or "flexbox". */
+
 .bb1 {
   width: 10%;
   height: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .bb1a {
   width: 70%;
