@@ -1,5 +1,3 @@
-/*That didn't work, because the variables I declared in .bb1 do not cascade to the .bb2 and .bb3 sibling elements. That's just how CSS works. Because of this, variables are often declared in the :root selector. This is the highest level selector in CSS; putting my variables there will make them usable everywhere. I added the :root selector to the top of my stylesheet, and moved all my variable declarations there.*/
-
 :root {
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
