@@ -19,11 +19,6 @@ body {
   align-items: center;
   --building-color1: #999;
 }
-
-/*To use a variable, put the variable name in parentheses with var in front of them like this: var(--variable-name). Whatever value you gave the variable will be applied to whatever property you use it on.
-
-I've added the variable --building-color1 I created in the previous step as the value of the background-color property of the .bb1a class.*/
-
 .bb1a {
   width: 70%;
   height: 10%;
