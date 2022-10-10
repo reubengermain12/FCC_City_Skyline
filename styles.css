@@ -34,9 +34,6 @@ body {
   flex-direction: column;
   align-items: center;
 }
-
-/*I want to add the same gradient to the next two sections. But instead of doing that, I created a new class selector called bb1-window, and moved the height and background properties and values from .bb1a to the new class selector.*/
-
 .bb1a {
   width: 70%;
   background-color: var(--building-color1);
