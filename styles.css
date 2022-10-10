@@ -34,9 +34,6 @@ body {
   flex-direction: column;
   align-items: center;
 }
-
-/*I don't need the height or background-color properties in .bb1a, .bb1b or bb1c anymore, so I have removed them*/
-
 .bb1a {
   width: 70%;
 }
