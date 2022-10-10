@@ -62,9 +62,6 @@ body {
   height: 58%;
   background-color: var(--building-color4);
 }
-
-/*I want the .foreground-buildings container to sit directly on top of the .background-buildings element. I've given it a width and height of 100%, and set the position to absolute, and the top to 0. This will make it the same size as the body and move the start of it to the top left corner.*/
-
 .foreground-buildings {
   width: 100%;
   height: 100%;
