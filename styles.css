@@ -57,9 +57,6 @@ body {
   width: 10%;
   height: 50%;
 }
-
-/*After adding these properties, you can see how a thick border on an element gives you some angles where two sides meet. I am going to use that bottom border as the top of the building.*/
-
 .bb2a {
   margin: auto;
   width: 5vw;
