@@ -57,8 +57,11 @@ body {
   width: 10%;
   height: 50%;
 }
+
+/*Finally, on the border-bottom property of .bb2a, I changed the 1vw to 5vh & changed the #000 color to my --building-color2 variable. Now it looks good! At any time throughout this project, I can comment out or remove the border property I added to everything at the beginning to see what the buildings will look like when that gets removed at the end.*/
+
 .bb2a {
-  border-bottom: 1vw solid #000;
+  border-bottom: 5vh solid var(--building-color2);
   border-left: 5vw solid transparent;
   border-right: 5vw solid transparent;
 }
