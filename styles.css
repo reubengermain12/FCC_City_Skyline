@@ -57,9 +57,6 @@ body {
   width: 10%;
   height: 50%;
 }
-
-/*I've changed the 2 #999 color to transparent. This will make the left & right borders invisible*/
-
 .bb2a {
   margin: auto;
   border-top: 1vw solid #000;
