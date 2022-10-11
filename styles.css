@@ -26,6 +26,10 @@ body {
   position: absolute;
   top: 0;
 }
+
+/*You want .bb4 to share the properties of .bb1 that center the sections. So instead of duplicating that code, I create a new class above the background building comment called building-wrap. I will leave it empty for now; this class will be used in a few places to save you some coding.
+*/
+
 .building-wrap {
 }
 
