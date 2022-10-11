@@ -33,6 +33,16 @@ body {
   align-items: center;
 }
 
+/*The windows are stacked on top of each other at the left of the section, behind the purple building. I added a new class below .building-wrap called window-wrap, and add properties to it.
+
+This will be used in a few places to center window elements vertically, and evenly space them in their parent.*/
+
+.window-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
 /*BACKGROUND BUILDINGS - "bb" stands for "background building"*/
 
 .bb1 {
