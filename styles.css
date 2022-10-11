@@ -1,3 +1,5 @@
+/*The addition of --window-color3 will be the secondary color for the pink building*/
+
 :root {
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
@@ -5,6 +7,7 @@
   --building-color4: #538cc6;
   --window-color1: black;
   --window-color2: #8cd9b3;
+  --window-color3: #d98cb3;
 }
 * {
   border: 1px solid black;
