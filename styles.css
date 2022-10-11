@@ -57,9 +57,6 @@ body {
   width: 10%;
   height: 50%;
 }
-
-/*I removed the width & height, and changed the left & right borders to 5vw. The element will now have zero size and the borders will come together in the middle.*/
-
 .bb2a {
   margin: auto;
   border-top: 1vw solid #000;
