@@ -1,5 +1,3 @@
-/*With CSS variables I can change values without searching everywhere in the stylesheet. I changed the --window-color1 value to #bb99ff.*/
-
 :root {
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
