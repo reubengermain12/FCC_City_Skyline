@@ -256,7 +256,16 @@ body {
       var(--window-color3) 30%
     );
 }
+
+/*Added a :root selector to the top of the media query. Then redefined all four of the --building-color variables to use the value #000 there.*/
+
 @media (max-width: 1000px) {
+  :root {
+    --building-color1: #000;
+    --building-color2: #000;
+    --building-color3: #000;
+    --building-color4: #000;
+  }
   .sky {
     background: radial-gradient(
       circle closest-corner at 15% 15%,
